@@ -1,7 +1,7 @@
 ## 🌸 maha's core
 
-Hi there! I'm **Mahnoor** 👋
-I'm on a journey to become a pro coder by building small projects and learning from mistakes.
+Hi there! I'm **Mahnoor** 👋<br>
+I'm on a journey to become a pro coder by building small projects and learning from mistakes.<br>
 📘 Feel free to explore or suggest improvements!
 
 ---
