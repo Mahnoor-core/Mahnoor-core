@@ -1,7 +1,8 @@
 ## 🌸 maha's core
 
-Hi there! I'm **Mahnoor** 👋, a beginner learning Python and coding day by day.  
+Hi there! I'm **Mahnoor** 👋
 I'm on a journey to become a pro coder by building small projects and learning from mistakes.
+📘 Feel free to explore or suggest improvements!
 
 ---
 
@@ -13,7 +14,7 @@ I'm on a journey to become a pro coder by building small projects and learning f
 ---
 
 ### 🗂️ My Repositories
-- `python-practice` – small Python projects and exercises
+- `my-python-journey` – small Python projects and exercises
 - More to come as I grow ✨
 
 ---
