@@ -1,16 +1,35 @@
-## Hi there 👋
+## 🌸 maha's core
 
-<!--
-**Mahnoor-core/Mahnoor-core** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Mahnoor** 👋, a beginner learning Python and coding day by day.  
+I'm on a journey to become a pro coder by building small projects and learning from mistakes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### ✨ About Me
+- 🐍 Learning Python (beginner level)
+- 💓 Love solving problems and learning cool coding tricks
+- 🚀 Want to become a good and confident developer
+
+---
+
+### 🗂️ My Repositories
+- `python-practice` – small Python projects and exercises
+- More to come as I grow ✨
+
+---
+
+### 🛠️ Tools I'm Using
+- Python
+- Git & GitHub
+- VS Code
+
+---
+
+### 💡 Fun Fact
+I celebrate every successful `print()` like I built an app 😄
+
+---
+
+🔒 Contact details coming soon...
+
 -->
