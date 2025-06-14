@@ -14,7 +14,7 @@ I'm on a journey to become a pro coder by building small projects and learning f
 ---
 
 ### 🗂️ My Repositories
-- `my-python-journey` – small Python projects and exercises
+- [my-python-journey](https://github.com/Mahnoor-core/my-python-journey) – small Python projects and exercises
 - More to come as I grow ✨
 
 ---
